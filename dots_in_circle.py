@@ -15,4 +15,3 @@ while dist(x, y, 0, 0) > 0:
     x, y = [int(s) for s in input().split(',')]
 
 print(answer)
-

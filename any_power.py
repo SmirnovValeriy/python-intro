@@ -1,11 +1,11 @@
 from math import log
-'''
+"""
 n = k^p
 log_k(n) = p * log_k(k)
 p = log_k(n)
 "YES" if p is integer
 "NO" else
-'''
+"""
 prec = 1e-10
 n = int(input())
 answer = 'NO'
